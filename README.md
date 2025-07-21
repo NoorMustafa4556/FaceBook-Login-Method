@@ -6,6 +6,18 @@ A Flutter-based mobile application that simulates a simplified **Facebook-like o
 
 ---
 
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="./assets/images/1.png" width="30%" alt="Screenshot 1" />
+  <img src="./assets/images/2.png" width="30%" alt="Screenshot 2" />
+  <img src="./assets/images/3.png" width="30%" alt="Screenshot 3" />
+  <img src="./assets/images/4.png" width="30%" alt="Screenshot 4" />
+  <img src="./assets/images/5.png" width="30%" alt="Screenshot 5" />
+  <img src="./assets/images/6.png" width="30%" alt="Screenshot 6" />
+</p>
+
+
 ## 🚀 Features
 
 ### 🔹 Splash Screen
