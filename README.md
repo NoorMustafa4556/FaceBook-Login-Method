@@ -5,7 +5,6 @@ A Flutter-based mobile application that simulates a simplified **Facebook-like o
 ---
 
 
-
 ## 📸 App Screenshots
 
 <p align="center">
