@@ -2,7 +2,6 @@
 
 A Flutter-based mobile application that simulates a simplified **Facebook-like onboarding and login experience**, ideal for learning and demonstration purposes. This app includes a splash screen, an agreement screen, a user registration form, and a login form that integrates with external links using the `url_launcher` package.
 
-
 ---
 
 ## 📸 App Screenshots
