@@ -7,6 +7,7 @@ A Flutter-based mobile application that simulates a simplified **Facebook-like o
 
 ## 📸 App Screenshots
 
+
 <p align="center">
   <img src="./assets/images/1.png" width="30%" alt="Screenshot 1" />
   <img src="./assets/images/2.png" width="30%" alt="Screenshot 2" />
